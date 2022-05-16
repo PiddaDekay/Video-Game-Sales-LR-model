@@ -3,5 +3,5 @@
 
 
 Work done at Dec. 2020, first using R
-Work description:
+Work description:<br>
   Using Linar Regression to find the feature significance and to visualize feature importance, predict game sales, and give recommandation based on the prediction.
